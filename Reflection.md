@@ -5,4 +5,4 @@ I learned what a repository in GitHub is and commiting/pushing changes. I'm stil
 *Italics*
 
 # After Fundamanetals 
-*I have a slightly clearer uderstanding of using GitHub and how the branches work. I liked creating the readme file but I didn't really know how to add in my own image, so I just copied and pasted the code from the GitHub website. 
+*I have a slightly clearer uderstanding of using GitHub and how the branches work. I liked creating the readme file but I didn't really know how to add in my own image, so I just copied and pasted the code from the GitHub website.*
